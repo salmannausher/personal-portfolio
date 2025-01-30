@@ -29,7 +29,7 @@ function App() {
                 Salman Nausher
               </h2>
               <h3 className="text-3xl md:text-4xl font-bold mb-6 animate-slide-in" style={{ animationDelay: '2.5s' }}>
-                Full Stack Developer
+                Ruby on Rails Developer
               </h3>
               <p className="text-xl mb-8 animate-slide-in" style={{ animationDelay: '2.7s' }}>
                 Top Rated PLUS Developer with 4+ years of experience building scalable web applications
