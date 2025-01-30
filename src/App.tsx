@@ -76,10 +76,10 @@ function App() {
               <p className="text-lg">Let's build something amazing together</p>
             </div>
             <div className="flex gap-6">
-              <a href="https://github.com" className="hover:text-[#14a800] transition-colors" aria-label="Github">
+              <a href="https://github.com/salmannausher" className="hover:text-[#14a800] transition-colors" aria-label="Github">
                 <Github size={24} />
               </a>
-              <a href="https://linkedin.com" className="hover:text-[#14a800] transition-colors" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/in/snausher/" className="hover:text-[#14a800] transition-colors" aria-label="LinkedIn">
                 <Linkedin size={24} />
               </a>
               <a href="mailto:salmanfasttian@gmail.com" className="hover:text-[#14a800] transition-colors" aria-label="Email">
